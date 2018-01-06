@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.prash.paybuddy.AccountActivity.card_choose">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="User Information"
+        android:textSize="34sp"
+        android:textAlignment="center"
+        android:textColor="@color/bg_main"
+        android:textStyle="italic"
+        android:shadowRadius="4"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        />
+
+    <Button
+        android:id="@+id/credit_card"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/shadow"
+        android:text="Credit Card" />
+    <Button
+        android:id="@+id/debit_card"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/shadow"
+        android:text="Debit Card" />
+    <Button
+        android:id="@+id/gift_card"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/shadow"
+        android:text="Gift Card" />
+
+</LinearLayout>
