@@ -10,11 +10,11 @@ In this application, I integrated Login and Signup using Google Firebase.
 
 ## Screenshots
 ![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/First.png)
-![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Second.png)
+      ![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Second.png)
 ![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Thirs.png)
-![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fouth.png)
+      ![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fourth.png)
 ![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fifth.png)
-![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Sixth.png)
+      ![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Sixth.png)
 
 
 
