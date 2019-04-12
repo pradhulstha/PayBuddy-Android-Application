@@ -1,10 +1,22 @@
-## PayBuddy-Android-Application
-# My first Android Application using PayPal and Google Firebase
+# PayBuddy-Android-Application
+## My first Android Application using PayPal and Google Firebase
+<ul>
 In this application, I integrated Login and Signup using Google Firebase.
-One can save thier card information in the Fireabse and Retrieve later on. 
-I have used PayPal Integrtion to pay to the app owner for donation or the apllication can be used in other Paying Application
-like Food Order and all.
-The payment is done securly inside PayPal's Developer Library.
+  <li>
+    One can save thier card information in the Fireabse and Retrieve later on. </li>
+  <li>I have used PayPal Integrtion to pay to the app owner for donation or the apllication can be used in other Paying Application
+    such as Food Order, Online E-Commerce Store. </li>
+  <li> The payment is done securly inside PayPal's Developer Library. </li>
 
-# Screenshots
-[alt text] ()
+## Screenshots
+[alt text] (https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/First.png)
+[alt text] (https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Second.png)
+[alt text] (https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Thirs.png)
+[alt text] (https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fouth.png)
+[alt text] (https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fifth.png)
+[alt text] (https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Sixth.png)
+
+
+
+
+
