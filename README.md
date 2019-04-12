@@ -9,12 +9,12 @@ In this application, I integrated Login and Signup using Google Firebase.
   <li> The payment is done securly inside PayPal's Developer Library. </li>
 
 ## Screenshots
-[alt text](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/First.png)
-[alt text](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Second.png)
-[alt text](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Thirs.png)
-[alt text](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fouth.png)
-[alt text](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fifth.png)
-[alt text](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Sixth.png)
+![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/First.png)
+![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Second.png)
+![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Thirs.png)
+![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fouth.png)
+![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Fifth.png)
+![ALT TEXT](https://github.com/pradhulstha/PayBuddy-Android-Application/blob/master/PayBuddy/app/src/main/res/drawable/Sixth.png)
 
 
 
